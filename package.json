@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "morgan": "^1.10.0",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "postgres": "^3.2.4",
+    "sequelize": "^6.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "tasks",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Lucia Cerpa",
+  "license": "ISC",
+  "description": ""
+}
